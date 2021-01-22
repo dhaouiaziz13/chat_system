@@ -3,7 +3,7 @@
         <nav class="nav">
             <div class="navbar__brand">
                 <!-- <ion-icon name="rocket" class="navbar__icon navbar__icon--logo"></ion-icon> -->
-                <router-link to="/" class="navbar__textbrand">foodify Chat</router-link>
+                <router-link to="/" class="navbar__textbrand">We Chat</router-link>
             </div>
             <span class="navbar__toggle">
                 <ion-icon
